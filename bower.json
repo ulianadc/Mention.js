@@ -1,0 +1,13 @@
+{
+  "name": "mention.js",
+  "repo": "ulianadc/Mention.js",
+  "version": "1.0.0",
+  "description": "Tag users, etc.",
+  "scripts": [
+    "bootstrap-typeahead.js",
+    "mention.js"
+  ],
+  "main": [
+    "mention.js"
+  ]
+}
